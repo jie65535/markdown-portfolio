@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Game Image](https://raw.githubusercontent.com/jie65535/Images/master/GIF2.gif)
